@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/efesenol/Desktop/WebSitem/WebSite/WebSite.csproj": {}
+    "/Users/efesenol/Documents/GitHub/WebSitem/WebSitem/WebSite/WebSite.csproj": {}
   },
   "projects": {
-    "/Users/efesenol/Desktop/WebSitem/WebSite/WebSite.csproj": {
+    "/Users/efesenol/Documents/GitHub/WebSitem/WebSitem/WebSite/WebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/efesenol/Desktop/WebSitem/WebSite/WebSite.csproj",
+        "projectUniqueName": "/Users/efesenol/Documents/GitHub/WebSitem/WebSitem/WebSite/WebSite.csproj",
         "projectName": "WebSite",
-        "projectPath": "/Users/efesenol/Desktop/WebSitem/WebSite/WebSite.csproj",
+        "projectPath": "/Users/efesenol/Documents/GitHub/WebSitem/WebSitem/WebSite/WebSite.csproj",
         "packagesPath": "/Users/efesenol/.nuget/packages/",
-        "outputPath": "/Users/efesenol/Desktop/WebSitem/WebSite/obj/",
+        "outputPath": "/Users/efesenol/Documents/GitHub/WebSitem/WebSitem/WebSite/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/efesenol/.nuget/NuGet/NuGet.Config"

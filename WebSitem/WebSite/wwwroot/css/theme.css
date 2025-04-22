@@ -110,7 +110,7 @@ pre {
 #header .header-body {
 	display: flex;
 	flex-direction: column;
-	background: #FFF;
+	background: #212529;
 	transition: min-height 0.3s ease;
 	width: 100%;
 	border-top: 3px solid #EDEDED;
@@ -2237,7 +2237,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	}
 
 	#header .header-nav.header-nav-links:not(.header-nav-light-text) nav > ul > li > a, #header .header-nav.header-nav-line:not(.header-nav-light-text) nav > ul > li > a {
-		color: #444;
+			color: #FFF;
 	}
 
 	#header .header-nav.header-nav-links.header-nav-light-text nav > ul > li > a, #header .header-nav.header-nav-line.header-nav-light-text nav > ul > li > a {
@@ -2350,9 +2350,9 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		color: #FFF !important;
 	}
 
-	#header .header-nav.header-nav-line.header-nav-bottom-line.header-nav-bottom-line-active-text-dark nav > ul > li:hover > a {
-		color: #444 !important;
-	}
+		#header .header-nav.header-nav-line.header-nav-bottom-line.header-nav-bottom-line-active-text-dark nav > ul > li:hover > a {
+			color: #FFF !important;
+		}
 
 	#header .header-nav.header-nav-line.header-nav-bottom-line.header-nav-bottom-line-active-text-dark nav > ul:not(:hover) li > a.active {
 		color: #444 !important;
